@@ -1,4 +1,4 @@
- # MINI PROJECT
+ # Clone PROJECT
 
- This project is created from local system.
- Created by Shubham.
+ This is a Clone Project of Spotify .
+ Designed by Shubham Mishra.
